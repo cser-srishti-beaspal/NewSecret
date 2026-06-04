@@ -1,4 +1,4 @@
-# Vulnerable JS Demo
+# Vulnerable JS DM
 
 This is a very simple, single-file JavaScript project with highly vulnerable dependencies. It is intended to be used for testing and demonstrating security scanning tools such as **Snyk**, **npm audit**, or other dependency scanners.
 
