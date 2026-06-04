@@ -1,0 +1,14 @@
+{
+  "name": "vulnerable-js-demo",
+  "version": "1.0.0",
+  "description": "A simple JS project with vulnerable dependencies for testing security scanners like Snyk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.11",
+    "minimist": "1.2.0",
+    "js-yaml": "3.13.0"
+  }
+}
